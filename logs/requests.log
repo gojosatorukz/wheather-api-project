@@ -1,0 +1,32 @@
+[2026-01-02T10:38:03.574Z] GET request to / from ::1
+[2026-01-02T10:38:04.599Z] GET request to /favicon.ico from ::1
+[2026-01-02T10:42:27.213Z] POST request to /api/weather from ::ffff:127.0.0.1
+[2026-01-02T10:42:37.683Z] GET request to / from ::1
+[2026-01-02T10:44:12.243Z] POST request to /api/weather from ::ffff:127.0.0.1
+[2026-01-02T10:46:59.800Z] POST request to /api/weather from ::ffff:127.0.0.1
+[2026-01-02T10:47:15.540Z] GET request to / from ::1
+[2026-01-02T10:47:18.397Z] GET request to / from ::1
+[2026-01-02T15:49:51.642Z] POST request to /api/weather from ::ffff:127.0.0.1
+[2026-01-02T15:51:55.399Z] POST /api/subscribe from ::ffff:127.0.0.1
+[2026-01-02T17:38:31.442Z] GET /api/weather from ::1
+[2026-01-02T17:39:03.206Z] POST /api/weather from ::1
+[2026-01-02T17:39:04.446Z] GET /api/weather from ::1
+[2026-01-02T17:39:27.869Z] POST /api/weather from ::1
+[2026-01-02T17:39:29.366Z] GET /api/weather from ::1
+[2026-01-02T17:39:33.420Z] DELETE /api/weather/Nur-Sultan from ::1
+[2026-01-02T17:39:33.424Z] GET /api/weather from ::1
+[2026-01-02T17:39:35.475Z] DELETE /api/weather/Almaty from ::1
+[2026-01-02T17:39:35.479Z] GET /api/weather from ::1
+[2026-01-02T17:39:59.479Z] POST /api/subscribe from ::1
+[2026-01-02T17:40:19.201Z] GET /api/weather from ::1
+[2026-01-02T17:40:24.162Z] POST /api/weather from ::1
+[2026-01-02T17:40:25.070Z] GET /api/weather from ::1
+[2026-01-02T17:40:33.643Z] POST /api/weather from ::1
+[2026-01-02T17:40:35.414Z] GET /api/weather from ::1
+[2026-01-02T17:44:36.782Z] GET /api/weather from ::1
+[2026-01-02T17:44:45.747Z] POST /api/weather from ::1
+[2026-01-02T17:44:46.633Z] GET /api/weather from ::1
+[2026-01-02T17:44:54.768Z] POST /api/weather from ::1
+[2026-01-02T17:44:55.981Z] GET /api/weather from ::1
+[2026-01-02T17:45:00.425Z] DELETE /api/weather/Vannovka from ::1
+[2026-01-02T17:45:00.427Z] GET /api/weather from ::1
