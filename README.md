@@ -114,5 +114,3 @@ weather-api-project/
 └── README.md              # Documentation
 
 ```
-
-```
