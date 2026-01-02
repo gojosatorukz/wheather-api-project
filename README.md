@@ -116,5 +116,3 @@ weather-api-project/
 ```
 
 ```
-
-***
